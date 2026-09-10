@@ -31,8 +31,6 @@ Nenhuma instalação é necessária. Basta abrir o arquivo `index.html` em qualq
 
 `https://marianalaura.github.io/atividades-prog-web/`
 
-> Substitua pelo link real após publicar o repositório no GitHub Pages.
-
 ## Metadados
 
 ```json
